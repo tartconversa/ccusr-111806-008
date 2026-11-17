@@ -12,14 +12,20 @@
       "name": "建设银行 A 股",
       "group": "甲",
       "detail": "证券报价甲",
-      "changed_detail": "证券报价修订甲"
+      "changed_detail": "证券报价修订甲",
+      "trade_date": "2026-11-17",
+      "market": "SSE",
+      "quote_state": "来源待核"
     },
     {
       "id": "bank-market-b",
       "name": "建设银行 H 股",
       "group": "乙",
       "detail": "证券报价乙",
-      "changed_detail": "证券报价修订乙"
+      "changed_detail": "证券报价修订乙",
+      "trade_date": "2026-11-17",
+      "market": "HKEX",
+      "quote_state": "来源待核"
     }
   ]
 }
